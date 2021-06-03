@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/getgithubinfo/static/css/main.a54118ad.chunk.css",
+    "main.js": "/getgithubinfo/static/js/main.f945e811.chunk.js",
+    "main.js.map": "/getgithubinfo/static/js/main.f945e811.chunk.js.map",
+    "runtime-main.js": "/getgithubinfo/static/js/runtime-main.80cb57e4.js",
+    "runtime-main.js.map": "/getgithubinfo/static/js/runtime-main.80cb57e4.js.map",
+    "static/js/2.d73f5519.chunk.js": "/getgithubinfo/static/js/2.d73f5519.chunk.js",
+    "static/js/2.d73f5519.chunk.js.map": "/getgithubinfo/static/js/2.d73f5519.chunk.js.map",
+    "index.html": "/getgithubinfo/index.html",
+    "static/css/main.a54118ad.chunk.css.map": "/getgithubinfo/static/css/main.a54118ad.chunk.css.map",
+    "static/js/2.d73f5519.chunk.js.LICENSE.txt": "/getgithubinfo/static/js/2.d73f5519.chunk.js.LICENSE.txt",
+    "static/media/Octocat.237e2214.png": "/getgithubinfo/static/media/Octocat.237e2214.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80cb57e4.js",
+    "static/js/2.d73f5519.chunk.js",
+    "static/css/main.a54118ad.chunk.css",
+    "static/js/main.f945e811.chunk.js"
+  ]
+}
